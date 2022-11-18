@@ -12,3 +12,7 @@
 
 ![我是测试图片](testimg.png)
 
+## 协议
+
+Unlicense 我是雷锋！
+
